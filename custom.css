@@ -1,21 +1,36 @@
 .jumbotron{ 
     
     font-family:Comic Sans MS;
-    color: #1855FF
+    color: #1855FF;
 }
 
 body {
     background-color: #FF9A7D;
 }
 
-#home {
-     border: 1px solid black;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-    background-color: lightblue;
-
+p{
+    font-family: Times New Roman;
+    color:#38849E;
+    font-size:15px;
+     
 }
-    
 
+
+h3,h4{
+    font-family:Comic Sans MS;
+    color:#1855FF;
+    font-size: 25px
+    
+}
+
+h5 {
+    font-family:Fantasy;
+    color:#66FF30;
+    font-size:18px;
+     -webkit-text-stroke: 1px black;
+    
+}
+
+.dark-brown {
+    background-color: #ceae85;
+}
