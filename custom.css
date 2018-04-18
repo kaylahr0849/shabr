@@ -16,10 +16,11 @@ p{
 }
 
 
+
 h3,h4{
     font-family:Comic Sans MS;
     color:#1855FF;
-    font-size: 25px
+    font-size: 25px;
     
 }
 
@@ -31,6 +32,30 @@ h5 {
     
 }
 
-.dark-brown {
-    background-color: #ceae85;
+h6{
+      font-family:Comic Sans MS;
+    color:#1855FF;
+    font-size: 16px
+}
+
+
+.balloon{
+    size:10%;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.navbar {
+    color:#66FF30;
+    border-width: 0;
+    font-size: 1em;
+    font-family: Fantasy;
+   
 }
